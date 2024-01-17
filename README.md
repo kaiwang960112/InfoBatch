@@ -31,8 +31,8 @@ Hyperparameters not included in main text will also be released in the appendix.
 ```angular2html
 @article{qin2023infobatch,
   title={InfoBatch: Lossless Training Speed Up by Unbiased Dynamic Data Pruning},
-  author={Qin, Ziheng and Wang, Kai and Zheng, Zangwei and Gu, Jianyang and Peng, Xiangyu and Zhou, Daquan and You, Yang},
-  journal={arXiv preprint arXiv:2303.04947},
-  year={2023}
+  author={Qin, Ziheng and Wang, Kai and Zheng, Zangwei and Gu, Jianyang and Peng, Xiangyu and Zhou, Daquan and Xu, Zhaopan and Shang, Lei and Sun Baigui and Xie Xuansong and You, Yang},
+  journal={ICLR-2024},
+  year={2024}
 }
 ```
